@@ -1,0 +1,1 @@
+{"description":"A short original poem about two agents agreeing on one plan","license":"MIT","name":"the-poem-about-two-agents","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
